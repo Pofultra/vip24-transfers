@@ -1,0 +1,13 @@
+{
+    "nav": {
+      "home": "Inicio",
+      "about": "Sobre Nosotros",
+      "services": "Servicios",
+      "book": "Reservar"
+    },
+    "hero": {
+      "title": "Traslados Premium en Zúrich",
+      "subtitle": "Servicio exclusivo de transporte las 24 horas",
+      "cta": "Reservar Ahora"
+    }
+  }

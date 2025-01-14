@@ -1,0 +1,13 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "book": "Book Now"
+    },
+    "hero": {
+      "title": "Premium Transfers in Zurich",
+      "subtitle": "Exclusive 24/7 Transportation Service",
+      "cta": "Book Now"
+    }
+  }
