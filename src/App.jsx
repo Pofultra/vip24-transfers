@@ -217,7 +217,7 @@ const App = () => {
           <div className="grid md:grid-cols-3 gap-8">
             {/* Servicio: Traslados al Aeropuerto */}
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Roboto', sans-serif" }}>
+              <h3 className="text-xl font-bold mb-4" style={{ color: '#D4AF37', fontFamily: "'Roboto', sans-serif" }}>
                 Traslados al Aeropuerto
               </h3>
               <p className="text-gray-600" style={{ fontFamily: "'Roboto', sans-serif" }}>
@@ -227,7 +227,7 @@ const App = () => {
             </div>
             {/* Servicio: Tours por la Ciudad */}
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Roboto', sans-serif" }}>
+              <h3 className="text-xl font-bold mb-4" style={{ color: '#D4AF37', fontFamily: "'Roboto', sans-serif" }}>
                 Tours por la Ciudad
               </h3>
               <p className="text-gray-600" style={{ fontFamily: "'Roboto', sans-serif" }}>
@@ -237,7 +237,7 @@ const App = () => {
             </div>
             {/* Servicio: Eventos Especiales */}
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Roboto', sans-serif" }}>
+              <h3 className="text-xl font-bold mb-4" style={{ color: '#D4AF37', fontFamily: "'Roboto', sans-serif" }}>
                 Eventos Especiales
               </h3>
               <p className="text-gray-600" style={{ fontFamily: "'Roboto', sans-serif" }}>
@@ -246,7 +246,7 @@ const App = () => {
             </div>
             {/* Servicio: Traslados Ejecutivos */}
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Roboto', sans-serif" }}>
+              <h3 className="text-xl font-bold mb-4" style={{ color: '#D4AF37', fontFamily: "'Roboto', sans-serif" }}>
                 Traslados Ejecutivos
               </h3>
               <p className="text-gray-600" style={{ fontFamily: "'Roboto', sans-serif" }}>
@@ -256,7 +256,7 @@ const App = () => {
             </div>
             {/* Servicio: Excursiones de un Día */}
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Roboto', sans-serif" }}>
+              <h3 className="text-xl font-bold mb-4" style={{ color: '#D4AF37', fontFamily: "'Roboto', sans-serif" }}>
                 Excursiones de un Día
               </h3>
               <p className="text-gray-600" style={{ fontFamily: "'Roboto', sans-serif" }}>
@@ -265,7 +265,7 @@ const App = () => {
             </div>
             {/* Servicio: Traslados Familiares */}
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Roboto', sans-serif" }}>
+              <h3 className="text-xl font-bold mb-4" style={{ color: '#D4AF37', fontFamily: "'Roboto', sans-serif" }}>
                 Traslados Familiares
               </h3>
               <p className="text-gray-600" style={{ fontFamily: "'Roboto', sans-serif" }}>
